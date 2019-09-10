@@ -1,0 +1,7 @@
+C:\Users\kylle\OneDrive\Desktop\ISM курси\ISMFirstSolution\ISMFirstConsoleProject\bin\Debug\ISMFirstConsoleProject.exe.config
+C:\Users\kylle\OneDrive\Desktop\ISM курси\ISMFirstSolution\ISMFirstConsoleProject\bin\Debug\ISMFirstConsoleProject.exe
+C:\Users\kylle\OneDrive\Desktop\ISM курси\ISMFirstSolution\ISMFirstConsoleProject\bin\Debug\ISMFirstConsoleProject.pdb
+C:\Users\kylle\OneDrive\Desktop\ISM курси\ISMFirstSolution\ISMFirstConsoleProject\obj\Debug\ISMFirstConsoleProject.csprojAssemblyReference.cache
+C:\Users\kylle\OneDrive\Desktop\ISM курси\ISMFirstSolution\ISMFirstConsoleProject\obj\Debug\ISMFirstConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\kylle\OneDrive\Desktop\ISM курси\ISMFirstSolution\ISMFirstConsoleProject\obj\Debug\ISMFirstConsoleProject.exe
+C:\Users\kylle\OneDrive\Desktop\ISM курси\ISMFirstSolution\ISMFirstConsoleProject\obj\Debug\ISMFirstConsoleProject.pdb
